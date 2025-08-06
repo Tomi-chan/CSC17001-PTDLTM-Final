@@ -1,6 +1,3 @@
-````markdown
-### README.md
-
 # Automated Data Analysis AI Agent
 
 ## Introduction
