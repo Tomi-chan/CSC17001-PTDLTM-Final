@@ -50,5 +50,3 @@ This project is an AI-powered application designed to automate the data mining a
     ```bash
     streamlit run app.py
     ```
-
-````
